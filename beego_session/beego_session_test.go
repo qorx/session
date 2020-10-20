@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/astaxie/beego/session"
-	"github.com/qor/session/beego_session"
-	"github.com/qor/session/test"
+	"github.com/qorx/session/beego_session"
+	"github.com/qorx/session/test"
 )
 
 func TestAll(t *testing.T) {
